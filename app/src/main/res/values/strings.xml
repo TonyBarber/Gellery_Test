@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery_Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_big_image">ShowBigImage</string>
+</resources>
